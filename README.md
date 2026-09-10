@@ -165,18 +165,26 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMED-METAWEA&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-METAWEA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
-
-<br>
-
 <img src="https://streak-stats.demolab.com?user=AHMED-METAWEA&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AHMED-METAWEA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
-
 </div>
+
+<!--
+  THREE MORE CARDS ARE PARKED HERE — switch them on by deleting this comment's
+  opening line and the "-->" line below.
+
+  They are off because on 10 Sep 2026 both github-readme-stats.vercel.app and
+  github-profile-trophy.vercel.app returned errors. The public instances of both run on
+  a Vercel free tier that millions of READMEs share, so they go over quota regularly.
+  A card that fails renders as a broken-image icon on your profile, which looks worse
+  than not having the card at all.
+
+  Paste either URL into a browser to test. When it returns a picture, switch them on.
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMED-METAWEA&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-METAWEA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=AHMED-METAWEA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
+-->
 
 ---
 
