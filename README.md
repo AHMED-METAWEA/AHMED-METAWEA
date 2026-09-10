@@ -160,32 +160,41 @@
 
 ---
 
+<!--
+  GITHUB STAT CARDS ARE PARKED HERE.
+
+  All four were checked on 10 Sep 2026 and every one was failing:
+  github-readme-stats.vercel.app and github-profile-trophy.vercel.app were returning
+  errors (their public instances share one Vercel free tier with millions of READMEs),
+  and streak-stats.demolab.com was returning a Heroku application error. A card whose
+  service is down renders as a broken-image icon, which reads worse than no card.
+
+  You are not losing anything by leaving these off: your contribution activity is now
+  public, so GitHub's own contribution calendar appears natively further down this
+  profile page. That is the same information, drawn by GitHub, and it never breaks.
+
+  To switch them back on: paste a URL below into a browser. If it returns a picture,
+  delete the comment markers that open and close this block.
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMED-METAWEA&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-METAWEA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
+
+<br>
+
 <img src="https://streak-stats.demolab.com?user=AHMED-METAWEA&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AHMED-METAWEA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
 
 </div>
 
-<!--
-  THREE MORE CARDS ARE PARKED HERE — switch them on by deleting the comment
-  markers that open and close this block.
-
-  They are off because on 10 Sep 2026 both github-readme-stats.vercel.app and
-  github-profile-trophy.vercel.app returned errors. The public instances of both run on
-  a Vercel free tier that millions of READMEs share, so they go over quota regularly.
-  A card that fails renders as a broken-image icon on your profile, which looks worse
-  than not having the card at all.
-
-  Paste either URL into a browser to test. When it returns a picture, switch them on.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMED-METAWEA&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMED-METAWEA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=html,css" alt="Top Languages" />
-<img src="https://github-profile-trophy.vercel.app/?username=AHMED-METAWEA&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="Trophies" />
--->
-
 ---
+-->
 
 ## 🏆 Certifications
 
